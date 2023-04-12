@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - StickyBullet
+  - PaintDecal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Water Tiles
+  - Platform
+  - PLayer
+  - StickyWall
+  - Wallpaper
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 2077128851
+    locked: 0
+  - name: wallpaper
+    uniqueID: 2575093065
+    locked: 0
+  - name: playform
+    uniqueID: 2912760395
+    locked: 0
+  - name: Player Tile
+    uniqueID: 3432992475
+    locked: 0
+  - name: sticky wall
+    uniqueID: 2158030645
+    locked: 0
